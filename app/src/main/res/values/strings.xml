@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="bar">5 Star Hotels</string>
+    <string name="restaurants">Bars and Restaurants</string>
+    <string name="special_places">Places to visit</string>
+    <string name="events">Events</string>
+
+    <!-- overview of the events, containing the names and the dates-->
+    <string name="event1"> Disney Aladin</string>
+    <string name="event2">Pernias Pop-Up Show </string>
+    <string name="event3">Swan Lake Ballet - 2018 </string>/home/ayushi/Pictures/pop.jpg/home/ayushi/Pictures/pop.jpg
+    <string name="event4">Dastak-e-Dil </string>
+    <string name="event5">Durathon, Delhi 2018</string>
+    <string name="event6">Mirchi Neon Run </string>
+
+    <string name="event1_date">20th April onwards</string>
+    <string name="event2_date">30th March</string>
+    <string name="event3_date">31st March</string>
+    <string name="event4_date">24th March 2018</string>
+    <string name="event5_date">25th March 2018</string>
+    <string name="event6_date">24th March 2018</string>
+
+    <!-- overview of the places, containing the names and addresses-->
+    <string name="place1">The Red Fort</string>
+    <string name="place2">India Gate</string>
+    <string name="place3">Jama Masjid</string>
+    <string name="place4">Akashardham Temple</string>
+    <string name="place5">National Museum</string>
+    <string name="place6">Kingdom of Dreams</string>
+    <string name="place7">Connaught Place</string>
+    <string name="place8">Lotus Temple</string>
+
+    <string name="place1_address">Chandini Chowk,New Delhi</string>
+    <string name="place2_address">Rajpath Marg</string>
+    <string name="place3_address">Meena Bazar</string>
+    <string name="place4_address">Noida mor,Pandav Nagar</string>
+    <string name="place5_address">Janpath</string>
+    <string name="place6_address">Auditorium complex, sec 29,Gurugram</string>
+    <string name="place7_address">Connaught Place ,Delhi</string>
+    <string name="place8_address">Shambhu Dayal Bagh,Kalka ji</string>
+
+    <!-- overview of the  Bars and Restaurants, containing the names and addresses-->
+    <string name="bar1">Indian Accent</string>
+    <string name="bar2">Baluchi</string>
+    <string name="bar3">Akira Back</string>
+    <string name="bar4">Shang Palace</string>
+    <string name="bar5">Farzi Cafe</string>
+    <string name="bar6">Sevilla</string>
+    <string name="bar7">Zaffran</string>
+
+    <string name="bar1_address">Lodhi Road</string>
+    <string name="bar2_address">Connaught lace</string>
+    <string name="bar3_address">J W Marriott Hotel,Aerocity</string>
+    <string name="bar4_address">Ashoka road,Connaught place</string>
+    <string name="bar5_address">Connaught place</string>
+    <string name="bar6_address">Abdul Kalam Road</string>
+    <string name="bar7_address">N-2 Market,Greater Kailash-1</string>
+
+    <!-- overview of the Hotels, containing the names and addresses-->
+    <string name="hotel1">Hyatt Regency</string>
+    <string name="hotel2">Radisson Blu</string>
+    <string name="hotel3">J W Marriott</string>
+    <string name="hotel4">The Taj Mahal Hotel</string>
+    <string name="hotel5">The Oberoi</string>
+    <string name="hotel6">The Bristol </string>
+    <string name="hotel7">Le Meridien</string>
+    <string name="hotel8">The Picacdily</string>
+    <string name="hotel9">Rosetate house</string>
+    <string name="hotel10">The Grand</string>
+
+    <string name="hotel1_address">Bhikaji Cama Place</string>
+    <string name="hotel2_address">G-59 Connaught circus</string>
+    <string name="hotel3_address">Asset area 4,Aerocity</string>
+    <string name="hotel4_address">No.1 Man Singh Road</string>
+    <string name="hotel5_address">Udyog Vihar ,Sec 19,Gurugram</string>
+    <string name="hotel6_address">Sikanderpur,DLF phase 1,sec-28</string>
+    <string name="hotel7_address">Windsor place</string>
+    <string name="hotel8_address">Janakpuri placet</string>
+    <string name="hotel9_address">Aerocity ,IGI Airport </string>
+    <string name="hotel10_address">Nelson Mandela road</string>
+</resources>
